@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chandra Shekar
-- 👀 I’m interested in preparing Data science 
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in preparing Data science /Data Analyst
+- 🌱 I’m currently learning Data Science/Data Analyst
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me dhage0016@gmail.com
 
